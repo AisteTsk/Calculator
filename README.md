@@ -1,2 +1,2 @@
 # Calculator
-Simple "iPhone" calculator using Vanilla JS.
+"iPhone" calculator using Vanilla JS.
